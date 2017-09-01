@@ -1,0 +1,23 @@
+body,td,th {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: #FFFFFF;
+}
+body {
+    background-color: #000000;
+}
+a:link {
+    color: #CCCCCC;
+}
+a:visited {
+    color: #CCCCCC;
+}
+a:hover {
+    color: #999999;
+}
+a:active {
+    color: #999999;
+}
+a {
+    font-weight: bold;
+}
+.legal {font-size: 10px}
